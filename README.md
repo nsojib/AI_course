@@ -1,9 +1,8 @@
 ### AI_course
-
-1. Fundamental: Rationality, PEAS, Agent 
-2. 
+ 
 | Cat | Algorithm     |  Problems | Remarks |
 |---------|---------------|-----------|----------|
+| Fundamental |  |  | Rationality, PEAS, Agent | 
 | Uninformed Search | BFS, DFS, UCS, DLS, IDLS |  | To be implemented |
 | Informed /Heuristic Search |  A*, IDA* |  | To be implemented |
 |    Local Search   | Hill Climbing | [nqueen](https://github.com/nsojib/AI_course/blob/master/hill_climb_nqueen.ipynb)     | solve nqueen, attack_heuristic |
