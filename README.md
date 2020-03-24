@@ -2,6 +2,7 @@
 
 | Cat | Algorithm     |  Problems | 
 |---------|---------------|-----------|
+| Fundamental | Rationality, PEAS, Agent |  |
 | Uninformed Search | BFS, DFS, UCS, DLS, IDLS |  |
 | Informed /Heuristic Search |  A*, IDA* |  |
 |    Local Search   | Hill Climbing | [nqueen](https://github.com/nsojib/AI_course/blob/master/hill_climb_nqueen.ipynb)     |
