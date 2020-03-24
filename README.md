@@ -1,4 +1,4 @@
-"# AI_course" 
+### AI_course
 
 | Cat | Algorithm     |  Problems | 
 |---------|---------------|-----------|
