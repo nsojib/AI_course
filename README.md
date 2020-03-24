@@ -1,5 +1,15 @@
 ### AI_course
+
+### Problem Representation
+| Name | Algorithms | Remarks |
+|------|------|------|
+| State Space |  | fundamental concept |
+| 8 Puzzle |BFS, DFS |  |
+| N queen |  |  |
+| Missionary & Cannibal |  |  |
+| Water Jug |  |  |
  
+### Algorithms
 | Cat | Algorithm     |  Problems | Remarks |
 |---------|---------------|-----------|----------|
 | Fundamental |  |  | Rationality, PEAS, Agent | 
